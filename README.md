@@ -1,4 +1,4 @@
-# SMART-TO-DO-APP
+
 # 📝 Smart To-Do Application
 <div align="center">
 A Modern Task Management Web Application
@@ -8,15 +8,21 @@ Manage tasks efficiently with search, filters, dark mode, and persistent local s
 
 </div>
 
+🚀 Live Demo
+
+
 ## 🚀 Features
 
-- Add, edit, and delete tasks
-- Mark tasks as completed
-- Search tasks instantly
-- Filter by All / Completed / Pending
-- Dark Mode
-- Local Storage persistence
-- Responsive design
+✨ Features
+➕ Add new tasks instantly
+🗑 Delete tasks
+✔ Mark tasks as completed
+✏ Edit existing tasks
+🔎 Real-time search functionality
+🎯 Task filtering (All / Completed / Pending)
+💾 Persistent storage using Local Storage
+🌙 Dark mode toggle
+📱 Fully responsive design
 
 ## 🛠 Tech Stack
 
@@ -26,14 +32,21 @@ Manage tasks efficiently with search, filters, dark mode, and persistent local s
 - Local Storage API
 
 ## 📂 Project Structure
-
-```bash
 Smart-ToDo-App/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
+│
+├── index.html      # Main HTML structure
+├── style.css       # Styling and UI design
+├── script.js       # App logic and functionality
+└── README.md       # Project documentation
+
+⚙️ How to Run Locally
+Clone the repository
+git clone https://github.com/your-username/smart-todo-app.git
+Navigate to the project folder
+cd smart-todo-app
+Open index.html in your browser
+
+That’s it 🎉
 
 ## 🎯 Key Learnings
 
