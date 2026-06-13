@@ -11,18 +11,19 @@ Manage tasks efficiently with search, filters, dark mode, and persistent local s
 🚀 Live Demo
 
 
-## 🚀 Features
 
--✨ Features
--➕ Add new tasks instantly
--🗑 Delete tasks
--✔ Mark tasks as completed
--✏ Edit existing tasks
--🔎 Real-time search functionality
--🎯 Task filtering (All / Completed / Pending)
--💾 Persistent storage using Local Storage
--🌙 Dark mode toggle
--📱 Fully responsive design
+
+## ✨ Features
+
+* ➕ Add new tasks instantly
+* 🗑️ Delete tasks
+* ✔️ Mark tasks as completed
+* ✏️ Edit existing tasks
+* 🔎 Real-time search functionality
+* 🎯 Task filtering (All / Completed / Pending)
+* 💾 Persistent storage using Local Storage
+* 🌙 Dark mode toggle
+* 📱 Fully responsive design
 
 ## 🛠 Tech Stack
 
