@@ -1,0 +1,106 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  margin: 0;
+  transition: 0.3s;
+}
+
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+}
+
+/* INPUT */
+.input-box {
+  display: flex;
+  gap: 10px;
+}
+
+.input-box input {
+  flex: 1;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  background: #4cafef;
+  color: white;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+/* CONTROLS */
+.controls {
+  display: flex;
+  gap: 10px;
+  margin: 15px 0;
+}
+
+.controls input,
+.controls select {
+  flex: 1;
+  padding: 8px;
+}
+
+/* TASK LIST */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin: 8px 0;
+  background: #f1f1f1;
+  border-radius: 8px;
+}
+
+li span.done {
+  text-decoration: line-through;
+  color: gray;
+}
+
+li button {
+  margin-left: 5px;
+  padding: 5px 8px;
+  font-size: 12px;
+}
+
+/* EMPTY TEXT */
+.empty {
+  text-align: center;
+  color: gray;
+}
+
+/* DARK MODE */
+.dark {
+  background: #121212;
+  color: white;
+}
+
+.dark .container {
+  background: #1e1e1e;
+}
+
+.dark li {
+  background: #2a2a2a;
+}
+
+.dark input,
+.dark select {
+  background: #333;
+  color: white;
+  border: none;
+}
