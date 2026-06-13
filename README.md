@@ -32,13 +32,18 @@ Manage tasks efficiently with search, filters, dark mode, and persistent local s
 - JavaScript (ES6)
 - Local Storage API
 
+
 ## 📂 Project Structure
+
+```bash
 Smart-ToDo-App/
 │
-├── index.html      # Main HTML structure
-├── style.css       # Styling and UI design
-├── script.js       # App logic and functionality
+├── index.html      # Main application structure
+├── style.css       # Styling and responsive design
+├── script.js       # Application logic and functionality
 └── README.md       # Project documentation
+```
+
 
 ⚙️ How to Run Locally
 - Clone the repository
